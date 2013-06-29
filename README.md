@@ -1,4 +1,4 @@
-barma
+bamara
 =====
 
-Boilerplate fpr Backbone.Marionette with requireJS
+Boilerplate for Backbone.Marionette with requireJS
